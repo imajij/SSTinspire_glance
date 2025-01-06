@@ -10,7 +10,7 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: url('/happybirthday-main/images/bg.webp');
+  background-image: url('/images/bg.webp');
   background-position: center center;
   opacity: 0.9;
 }
@@ -93,7 +93,7 @@ img {
 }
 .paper.heart::after {
   content: "";
-  background-image: url('/happybirthday-main/images/icons8-scaler-academy-48.png');
+  background-image: url('/images/icons8-scaler-academy-48.png');
   width: 100%;
   height: 100%;
   position: absolute;
@@ -118,7 +118,7 @@ p {
 }
 div {
   background-image: none !important;
-  background-image: url('/happybirthday-main/images/divimg.webp') !important;
+  background-image: url('/images/divimg.webp') !important;
   /* //change th background image opacit */
   background-size: 1000px;
   background-position: center center;
