@@ -118,7 +118,7 @@ p {
 }
 div {
   background-image: none !important;
-  background-image: url('/images/divimg.webp') !important;
+  background-image: url('images/divimg.webp') !important;
   /* //change th background image opacit */
   background-size: 1000px;
   background-position: center center;
